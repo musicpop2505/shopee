@@ -1,0 +1,13 @@
+{
+  "shopee_update": [
+    {
+ "version":"7.34.0",
+ "title":"Update Tersedia",
+ "description":"SalMod Shopee recommends that you
+update to the latest version 7.34.0 You
+can keep online the app while
+downloading the update.",
+"download":"https://t.me/Cukup_pinot"
+}
+  ]
+}
